@@ -1,0 +1,5 @@
+Clothing,DD13,Tshirt,47,1200.00,M,Blue
+Electronics,LP01,Laptop,0,20000.00,Dell,2
+Electronics,MW02,Microwave,6,30000.00,Panasonic,3
+Electronics,PH24,Phone,17,10000.00,Apple,3
+Clothing,SK47,Skirt,18,950.00,M,Yellow
