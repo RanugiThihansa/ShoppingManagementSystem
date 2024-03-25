@@ -9,7 +9,6 @@ public class Clothing extends Product{
         this.color = color;
     }
 
-    // Getters and Setters for Clothing-specific attributes
 
     public String getSize() {
         return size;
